@@ -1,0 +1,10 @@
+#!/bin/bash
+
+while (1)
+do
+
+echo "One Must Imagine SisYphus HAPPY"
+sleep 15
+
+done
+

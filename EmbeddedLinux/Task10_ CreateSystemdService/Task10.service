@@ -1,0 +1,12 @@
+[Unit]
+Description=Task 10 SisyphusIsHappy service
+After=graphical.target
+
+[Service]
+ExecStart=/home/rania/Task10.sh
+Restart=always
+
+
+[Install]
+WantedBy=graphical.target
+
